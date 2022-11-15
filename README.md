@@ -4,8 +4,8 @@
 
 ## Indice
 
-> + [1 - Configurando o nosso ambiente](##1---Configurando-o-nosso-ambiente)
-> + [2 - Conhecendo a estrutura de uma aplicação Angular](##2---Conhecendo-a-estrutura-de-uma-aplicação-Angular)
+> + [1 - Configurando o nosso ambiente](#1---Configurando-o-nosso-ambiente)
+> + [2 - Conhecendo a estrutura de uma aplicação Angular](#2---Conhecendo-a-estrutura-de-uma-aplicação-Angular)
 
 ## 1 - Configurando o nosso ambiente
 
