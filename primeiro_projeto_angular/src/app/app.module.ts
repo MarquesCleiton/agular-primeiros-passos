@@ -3,12 +3,16 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { TituloComponent } from './titulo/titulo.component';
+import { HomeComponent } from './home/home.component';
+import { RodapeComponent } from './rodape/rodape.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    TituloComponent
+    TituloComponent,
+    HomeComponent,
+    RodapeComponent
   ],
   imports: [
     BrowserModule
