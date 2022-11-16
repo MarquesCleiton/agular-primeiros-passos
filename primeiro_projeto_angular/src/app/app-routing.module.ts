@@ -7,7 +7,7 @@ import { DuvidasComponent } from './duvidas/duvidas.component';
 
 //Inclusão de rotas de nossos componentes
 const routes: Routes = [
-  { path: '', component: HomeComponent},
+  { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: 'home', component: HomeComponent},
   { path: 'sobre-nos', component: SobreNosComponent},
   { path: 'duvidas', component: DuvidasComponent}
