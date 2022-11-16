@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { TituloComponent } from './titulo/titulo.component';
 import { HomeComponent } from './home/home.component';
 import { RodapeComponent } from './rodape/rodape.component';
+import { AppRoutingModule } from './app-routing.module';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { RodapeComponent } from './rodape/rodape.component';
     RodapeComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
