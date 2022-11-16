@@ -9,7 +9,6 @@
 > [Instalando o Angular](#instalando-o-angular)
 > [Criando o nosso projeto](#criando-o-nosso-projeto)
 > [Executando o projeto](#executando-o-projeto)
-
 > + [2 - Conhecendo a estrutura de uma aplicação Angular](##2---Conhecendo-a-estrutura-de-uma-aplicação-Angular)
 > [Abrindo o projeto](#abrindo-o-projeto)
 > [Pasta src](#pasta-src)
