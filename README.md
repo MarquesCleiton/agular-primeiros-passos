@@ -4,10 +4,15 @@
 ## Índice
 
 > + [1 - Configurando o nosso ambiente](#1---Configurando-o-nosso-ambiente)
+
 > [Baixando as dependências](#baixando-as-dependências)
+
 > [Configurações iniciais](#configurações-iniciais)
+
 > [Instalando o Angular](#instalando-o-angular)
+
 > [Criando o nosso projeto](#criando-o-nosso-projeto)
+
 > [Executando o projeto](#executando-o-projeto)
 
 
