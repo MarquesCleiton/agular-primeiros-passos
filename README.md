@@ -4,8 +4,11 @@
 ## Índice
 
 > + [1 - Configurando o nosso ambiente](#1---Configurando-o-nosso-ambiente)
+
 > [Baixando as dependências](#baixando-as-dependências)
+
 > [Configurações iniciais](#configurações-iniciais)
+
 > [Instalando o Angular](#instalando-o-angular)
 
 > [Criando o nosso projeto](#criando-o-nosso-projeto)
@@ -14,26 +17,41 @@
 
 
 > + [2 - Conhecendo a estrutura de uma aplicação Angular](##2---Conhecendo-a-estrutura-de-uma-aplicação-Angular)
+
 > [Abrindo o projeto](#abrindo-o-projeto)
+
 > [Pasta src](#pasta-src)
+
 > [Pasta app](#pasta-app)
-> [Outras pastas)[#outras-pastas]
+
+> [Outras pastas](#outras-pastas)
+
 > [Index.html](#indexhtml)
+
 > [app.component.ts](#appcomponentts)
 
 
 >  + [3 - Criando novos componentes](#3---Criando-novos-componentes)
+
 >  [Criando o título, home e rodapé](#criando-o-título-home-e-rodapé)
+
 >  [Entendendo o componente](#entendendo-o-componente)
+
 >  [Colocando nossos componentes em ação](#colocando-nossos-componentes-em-ação)
+
 >  [Resultado](#resultado)
 
 
 >  + [4 - Criando Rotas](#4---criando-rotas)
+
 >  [Explication](#explication)
+
 >  [Criação de componentes rotativos](#criação-de-componentes-rotativos)
+
 >  [Configurando as importações e rotas](#configurando-as-importações-e-rotas)
+
 >  [Definindo links e alterando para elementos rotativos](#definindo-links-e-alterando-para-elementos-rotativos)
+
 >  [Resultado](#resultado-1)
 
 
