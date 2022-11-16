@@ -1,22 +1,24 @@
-
 # Início com Angular
-### Uma pequena introdução para quem deseja começar um universo com Angular.
+### Uma pequena introdução para quem deseja criar um universo em Angular.
 
-## Indice
+## Índice
 
 > + [1 - Configurando o nosso ambiente](#1---Configurando-o-nosso-ambiente)
+> [Baixando as dependências](#baixando-as-dependências)
+> [Configurações iniciais](#configurações-iniciais)
+
 > + [2 - Conhecendo a estrutura de uma aplicação Angular](##2---Conhecendo-a-estrutura-de-uma-aplicação-Angular)
 >  + [3 - Criando novos componentes](#3---Criando-novos-componentes)
 
 # 1 - Configurando o nosso ambiente
 
-### Baixando as dependências...
+### Baixando as dependências
 Para que possamos trabalhar Angular é bom já ter instalado em nosso computador as seguintes ferramentas:
 * Gitbash: https://git-scm.com/
 * Node Js.:https://nodejs.org/
 * Visual Studio code: https://code.visualstudio.com/
 
-### Configurações iniciais...
+### Configurações iniciais
 Após o download das ferramentas, podemos criar uma pasta de trabalho onde iremos criar o nosso primeiro projetinho e iniciar nela o Git Bash.
 
 ![Decrição da imagem](https://raw.githubusercontent.com/MarquesCleiton/agular-primeiros-passos/main/Pictures/1-gitbash.png "Git Bash Here")
@@ -27,8 +29,10 @@ Validação dação da instalação do Node JS:
 node --version
 ```
 ![2-node.png](https://github.com/MarquesCleiton/agular-primeiros-passos/blob/main/Pictures/2-node.png?raw=true)
+
 ---
-**Instalação do Angular**:
+
+### Instalando o Angular:
 ```git
 npm install -g @angular/cli
 ```
@@ -40,7 +44,9 @@ ng version
 ```
 ![3-angular.png](https://github.com/MarquesCleiton/agular-primeiros-passos/blob/main/Pictures/3-angular.png?raw=true)
 
-**Criação do nosso projeto**:
+---
+
+### Criando o nosso projeto:
 ```git
 ng new "Nome_do_projeto"
 ```
@@ -51,7 +57,9 @@ ng new "Nome_do_projeto"
 npm install --save angular-module
 ```
 
-**Executando o projeto**:
+---
+
+### Executando o projeto:
 Dentro da pasta com todos os arquivos e módulo do projeto, execute o comando para iniciar nossa aplicação:
 ```
 ng serve
@@ -170,7 +178,9 @@ vamos utilizar depois para criar nossas rotas.
 ![20-VSCode.png](https://github.com/MarquesCleiton/agular-primeiros-passos/blob/main/Pictures/20-VSCode.png?raw=true)
 
 ### Colocando nossos componentes em ação
-O Angular cria como padrão para cada componente o seletor **app-nome_componente'** Assim para chamar, basta colocar a Tag com mesmo padrão no **app.component.html**.
+Antes... Apague TODO que esta dentro de **app.component.html**, pois é nele que iremos colocar nossos novos componentes!
+
+O Angular cria como padrão para cada componente o seletor **app-nome_componente'**. Assim para chamar, basta colocar a Tag com mesmo padrão no **app.component.html**.
 ![21-VSCode.png](https://github.com/MarquesCleiton/agular-primeiros-passos/blob/main/Pictures/21-VSCode.png?raw=true)
 
 ### Resultado
@@ -265,11 +275,10 @@ No componente **titulo.component.html** adicionaremos os links:
 
 ![8-app-routing.png](https://github.com/MarquesCleiton/agular-primeiros-passos/blob/main/Pictures/4%20-%20Criando%20rotas/8-app-routing.png?raw=true)
 
+Para mais informações:
 https://angular.io/tutorial/toh-pt5
 
-### Criando o módulo de roteamento
-Se na criação do seu projeto já tenha criado 
+---
+---
 
----
----
 ## 5 - Consumindo APIs
